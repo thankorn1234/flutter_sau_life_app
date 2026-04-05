@@ -2,9 +2,15 @@
 
 ## โปรเจ็กต์แสดงหน้า Home, login, Sigup โดยเน้น UI เป็นหลัก
 
-<kbd<img width="250"alt="localhost_62348_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/834dee14-c971-4e90-a0da-ef1dd042bd30" /></kbd>
-&nsp;&nsp;&nsp;&nsp;&nsp;&nsp;
-<kbd<img width="250"alt="localhost_62348_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/0dcd6af1-f042-4119-8fb5-ff25fe0d6066" /></kbd>
+<div style="display:flex; flex-wrap:wrap; gap:15px;">
 
-<kbd<img width="250"alt="localhost_62348_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/8c6a2f0c-63d2-4063-9ae8-3b61f1a15854" /></kbd>
+  <img src="https://github.com/user-attachments/assets/342efb2b-41b2-42dd-a0ba-650b91dc98c1" width="250" 
+       style="border:2px solid #ccc; border-radius:12px; padding:5px;">
 
+  <img src="https://github.com/user-attachments/assets/efc55485-a000-4c4a-bac4-c08d116b56c2" width="250" 
+       style="border:2px solid #ccc; border-radius:12px; padding:5px;">
+
+  <img src="https://github.com/user-attachments/assets/d5578dcb-c2a8-432a-a882-7e91213fdb2c" width="250" 
+       style="border:2px solid #ccc; border-radius:12px; padding:5px;">
+
+</div>
